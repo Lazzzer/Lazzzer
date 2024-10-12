@@ -37,7 +37,3 @@ Feel free to check out my repositories and connect with me on <a href="https://w
 * Labels detection in images with AWS services : [Labelize](https://github.com/AMT-TEAM07/Labelize)
 * Web security with Rust : [OAuth Lab](https://github.com/Lazzzer/slh-labo2)
 * Distributed systems with Go : [Lamport Lab](https://github.com/Lazzzer/labo1-sdr), [Changs & Roberts Lab](https://github.com/Lazzzer/labo3-sdr) & [Wave & Probe Lab](https://github.com/Lazzzer/labo4-sdr)
-
-<br/>
-
-![Lazzzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazzzer&show_icons=true&theme=dark)
