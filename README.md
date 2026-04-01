@@ -1,7 +1,6 @@
 ## Hi there, I'm Lazar 👋
 
-I'm a Software Engineer from Switzerland 🇨🇭. I'm a graduate from [HEIG-VD](https://heig-vd.ch/) with a Bachelor's degree in Computer Science 🎓. 
-I'm passionate about every aspect of web development and have a growing interest in iOS development.
+I'm a Software Engineer from Switzerland 🇨🇭. I'm a graduate from [HEIG-VD](https://heig-vd.ch/) with a Bachelor's degree in Computer Science 🎓.
 
 Feel free to check out my repositories and connect with me on <a href="https://www.linkedin.com/in/lazar-pavicevic" target="blank"><img align="top" alt="LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> !
 
@@ -18,12 +17,8 @@ Feel free to check out my repositories and connect with me on <a href="https://w
 
 <img align="left" alt="Laravel" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Livewire" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
+<img align="left" alt="Inertia.js" height="24px" src="https://avatars.githubusercontent.com/u/47703742" />
 <img align="left" alt="React" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Vue" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Nuxt" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-<img align="left" alt="Adonis" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-<img align="left" alt="Nest" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="TailwindCSS" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br/>
